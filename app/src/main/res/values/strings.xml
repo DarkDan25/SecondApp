@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Second App</string>
+    <string name="app_name">Второе приложение</string>
+    <string name="hanabi">Ханаби</string>
 </resources>
